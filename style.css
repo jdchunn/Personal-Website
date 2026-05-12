@@ -1,5 +1,18 @@
-.heading-row {
-  display: flex;
-  gap: 400px; 
-  align-items: center;
+body {
+    background-color: rgba(67, 64, 64, 0.274);
+    color: rgb(1, 1, 1);
 }
+
+.heading-row-left {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+
+.heading-row-right {
+  display: flex;
+  gap: 20px; 
+}
+
+
