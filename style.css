@@ -6,13 +6,25 @@ body {
 .heading-row-left {
   display: flex;
   align-items: center;
-  gap: 40px;
+  gap: 350px;
 }
 
 
 .heading-row-right {
   display: flex;
-  gap: 20px; 
+  align-items:center;
+  gap: 40px; 
 }
 
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 2em;
+}
 
